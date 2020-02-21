@@ -34,8 +34,6 @@ function checkLogin(email, password) {
   } else {
     return false
   }
-
 }
-
 
 module.exports = checkLogin
